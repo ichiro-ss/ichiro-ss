@@ -9,4 +9,4 @@ Hi there, I'm ichiro-ss🐶
 - 🌱 I’m currently learning **Go**
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichiro-ss&layout=donut&theme=onedark)](https://github.com/ichiro-ss/github-readme-stats)
